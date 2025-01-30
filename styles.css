@@ -25,7 +25,7 @@ body {
 .card img {
     width: 180px;
     height: fit-content; /* Maintain aspect ratio */
-    border-radius: 50%;
+    border-radius: 100px;
     border: 0.2rem solid #ffffff;
     /* margin-bottom: 25px; */
     
