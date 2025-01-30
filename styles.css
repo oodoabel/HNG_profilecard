@@ -9,7 +9,6 @@ body {
     background-color: #030303;
     /* background: red; */
     margin: 0;
-    padding: 20pt;
   }
   
   .card {
@@ -19,8 +18,8 @@ body {
     text-align: center;
     width: 350pt;
     background-color: #1a1a1a;
-    padding: 60pt 40pt;
-    margin: 20px;
+    padding: 60pt 30pt;
+    margin: 30px;
   }
   
   .card img {
