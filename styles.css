@@ -36,6 +36,11 @@ body {
     color: #ffffff;
     margin: 10px 0px;
   }
+
+  .card span{
+    padding: 0px;
+    color: green;
+  }
   
   .card h4 {
     font-size: 12px;
